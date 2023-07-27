@@ -23,6 +23,9 @@ import {
   carrent,
   jobit,
   tripguide,
+  careerbook,
+  spices,
+  digital,
   threejs,
 } from "../assets";
 
@@ -256,7 +259,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: careerbook,
     source_code_link: "https://github.com/",
   },
   {
@@ -277,11 +280,11 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: spices,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Digital Marketing",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -298,7 +301,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: digital,
     source_code_link: "https://github.com/",
   }
 ];

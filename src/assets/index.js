@@ -33,6 +33,9 @@ import art  from "./company/art.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import spices from "./spices.png";
+import careerbook from "./careerbook.png";
+import digital from "./digital.png";
 
 export {
   logo,
@@ -67,4 +70,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  spices,
+  digital,
+  careerbook
 };
